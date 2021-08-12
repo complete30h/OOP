@@ -1,0 +1,13 @@
+C:\Users\1\source\repos\lab2\XmlToJson\bin\Debug\XmlToJson.dll
+C:\Users\1\source\repos\lab2\XmlToJson\bin\Debug\XmlToJson.pdb
+C:\Users\1\source\repos\lab2\XmlToJson\bin\Debug\BasicLibrary.dll
+C:\Users\1\source\repos\lab2\XmlToJson\bin\Debug\Figures1.dll
+C:\Users\1\source\repos\lab2\XmlToJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\source\repos\lab2\XmlToJson\bin\Debug\BasicLibrary.pdb
+C:\Users\1\source\repos\lab2\XmlToJson\bin\Debug\Figures1.pdb
+C:\Users\1\source\repos\lab2\XmlToJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\source\repos\lab2\XmlToJson\obj\Debug\XmlToJson.csprojAssemblyReference.cache
+C:\Users\1\source\repos\lab2\XmlToJson\obj\Debug\XmlToJson.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\lab2\XmlToJson\obj\Debug\XmlToJson.csproj.CopyComplete
+C:\Users\1\source\repos\lab2\XmlToJson\obj\Debug\XmlToJson.dll
+C:\Users\1\source\repos\lab2\XmlToJson\obj\Debug\XmlToJson.pdb

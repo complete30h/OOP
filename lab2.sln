@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2", "lab2\lab2.csproj", "{1460A7C7-69B8-4400-8905-87BA2D261C63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicPlugin", "BasicLibrary\BasicPlugin.csproj", "{95122BBB-2E61-47EE-81FD-950EF2629FF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathPlugin", "MathLibrary\MathPlugin.csproj", "{B56F2FF5-A92A-40A6-9725-70522D16EC28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures1\Figures.csproj", "{5D050615-675C-4F25-B7FC-21E3163BAC7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlToJson", "XmlToJson\XmlToJson.csproj", "{022B2ED2-7330-463B-8A8D-AE54F9E43239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessingEncryption", "ProcessingEncryption\ProcessingEncryption.csproj", "{B261E323-308B-4F0E-A2BB-865750641B84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptAdapter", "EncryptAdapter\EncryptAdapter.csproj", "{787509F9-3292-4E0C-8A9A-D6D0F6E8D457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1460A7C7-69B8-4400-8905-87BA2D261C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1460A7C7-69B8-4400-8905-87BA2D261C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1460A7C7-69B8-4400-8905-87BA2D261C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1460A7C7-69B8-4400-8905-87BA2D261C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95122BBB-2E61-47EE-81FD-950EF2629FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95122BBB-2E61-47EE-81FD-950EF2629FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95122BBB-2E61-47EE-81FD-950EF2629FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95122BBB-2E61-47EE-81FD-950EF2629FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56F2FF5-A92A-40A6-9725-70522D16EC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56F2FF5-A92A-40A6-9725-70522D16EC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56F2FF5-A92A-40A6-9725-70522D16EC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56F2FF5-A92A-40A6-9725-70522D16EC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D050615-675C-4F25-B7FC-21E3163BAC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D050615-675C-4F25-B7FC-21E3163BAC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D050615-675C-4F25-B7FC-21E3163BAC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D050615-675C-4F25-B7FC-21E3163BAC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022B2ED2-7330-463B-8A8D-AE54F9E43239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022B2ED2-7330-463B-8A8D-AE54F9E43239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022B2ED2-7330-463B-8A8D-AE54F9E43239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022B2ED2-7330-463B-8A8D-AE54F9E43239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B261E323-308B-4F0E-A2BB-865750641B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B261E323-308B-4F0E-A2BB-865750641B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B261E323-308B-4F0E-A2BB-865750641B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B261E323-308B-4F0E-A2BB-865750641B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787509F9-3292-4E0C-8A9A-D6D0F6E8D457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787509F9-3292-4E0C-8A9A-D6D0F6E8D457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787509F9-3292-4E0C-8A9A-D6D0F6E8D457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787509F9-3292-4E0C-8A9A-D6D0F6E8D457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E72CC46-8C21-4839-B258-E8C2EAC8B9BB}
+	EndGlobalSection
+EndGlobal
